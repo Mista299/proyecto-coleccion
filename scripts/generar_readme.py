@@ -474,11 +474,14 @@ Estas métricas son la **referencia** para medir la mejora tras la estandarizaci
 
 #### Resumen por entidad DwC
 
-| Entidad | Campos seleccionados |
-|---------|---------------------|
-{resumen_ent}
-| **Identification** *(auxiliar, no en campos.jpeg)* | 5 (en modelo E-R) |
-| **Total** | **{len(CAMPOS)}** |
+| Entidad | Pregunta que responde | Campos seleccionados |
+|---------|-----------------------|---------------------|
+| Occurrence | ¿Qué espécimen fue registrado y cuál es su estado actual? | 7 |
+| Event | ¿Cuándo se realizó la colecta? | 1 |
+| Location | ¿Dónde fue colectado el espécimen? | 6 |
+| Taxon | ¿A qué organismo corresponde el registro? | 2 |
+| Identification *(auxiliar)* | ¿Quién determinó la identidad taxonómica y cuándo? | 5 (en modelo E-R) |
+| **Total** | | **{len(CAMPOS)}** |
 
 #### Justificación por entidad
 
