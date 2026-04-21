@@ -1000,3 +1000,4 @@ Según el cronograma del proyecto (a partir del 22 de abril):
 ---
 
 *Generado automáticamente el 20 de April de 2026 · Grupo 6 Ciencias Virtual · Universidad de Antioquia*
+# proyecto-coleccion
