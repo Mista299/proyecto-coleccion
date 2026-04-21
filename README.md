@@ -713,12 +713,9 @@ Estas métricas son la **referencia** para medir la mejora tras la estandarizaci
 
 ### 3.1 Campos Darwin Core seleccionados
 
-**Fuente:** imagen `campos.jpeg`, columna **"Colección biológica"**
-**Total de campos con x:** 16
 
-> **Nota de interpretación:** Se analizó cuidadosamente la columna "Colección biológica" (4ª columna
-> de datos) de `campos.jpeg`. Los 16 campos con marca "x" son los listados a continuación.
-> La columna "Presencia" indica si el campo ya existe de forma directa, requiere renombre, o está ausente.
+
+> **Nota de interpretación:** Los datos se tomaro de referencia del estandard Darwin Core para colecciones biológicas
 
 #### Tabla completa de campos
 
