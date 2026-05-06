@@ -1,3 +1,25 @@
 Grupo 6 ciencias virtual (1).docx
 meta.xml
 eml.xml
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Entorno — contiene credenciales, no subir
+backend/.env
+
+# Archivos temporales de Excel
+muestras/~$*
+muestras/.~*
+
+# IDEs
+.idea/
+.vscode/
+*.swp
